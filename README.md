@@ -1,1 +1,1 @@
-# Alfido Tech Internship - Task 1 Customer Behavior Analysis using Python, Pandas, and Google Colab.
+# Alfido Tech Internship - Task 1,2,3 using Python, Pandas, and Google Colab.
